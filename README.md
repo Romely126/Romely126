@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Romely126/Romely126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Dylan Jang<h1>
+<hr>
+![HTML5](https://img.shields.io/badge/html5-#E34F26.svg?&style=for-the-badge&logo=로고명&logoColor=#FFFFFF)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
