@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-663399.svg?&style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+
 ![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/font%20awesome-538DD7.svg?&style=for-the-badge&logo=fontawesome&logoColor=white)
 
 ### Back-end Technologies
 ![JAVA](https://img.shields.io/badge/java-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white)
@@ -60,7 +62,7 @@ Here are some ideas to get you started:
 
 
 ![GoogleGemini](https://img.shields.io/badge/google%20gemini-8E75B2.svg?&style=for-the-badge&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/google%claude-D97757.svg?&style=for-the-badge&logo=claude&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-D97757.svg?&style=for-the-badge&logo=claude&logoColor=white)
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janghw1938@gmail.com)](mailto:janghw1938@gmail.com)
