@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 ![GoogleGemini](https://img.shields.io/badge/google%20gemini-8E75B2.svg?&style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/claude-D97757.svg?&style=for-the-badge&logo=claude&logoColor=white)
 
-# :mailbox_with_mail: Contacts
+# Contacts :mailbox_with_mail:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janghw1938@gmail.com)](mailto:janghw1938@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:vega0101938@naver.com)](mailto:vega0101938@naver.com)
