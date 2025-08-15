@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 ![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![Sass](https://img.shields.io/badge/font%20awesome-538DD7.svg?&style=for-the-badge&logo=fontawesome&logoColor=white)
 
 ### Back-end Technologies
