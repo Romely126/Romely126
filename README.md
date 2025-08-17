@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Dylan Jang 😄
+# Dylan J 😄
 
 [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fromely126?color=green&label=Visitors&size=small)](https://myhits.vercel.app)
 
